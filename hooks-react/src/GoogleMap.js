@@ -46,5 +46,5 @@ export class GoogleMap extends Component {
 }
 
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyC5pPQFTO4-PjnI53fJhENTNEZE-evU-QQ'
+    apiKey: 'enter your api key'
 })(GoogleMap);
